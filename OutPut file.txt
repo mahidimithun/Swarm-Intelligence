@@ -1,0 +1,15 @@
+Solving TSP : berlin52
+Optimal Distance: 7498.27
+Best Distance: 7696.37
+Relative Error: 2.64%
+
+Solving TSP : att48
+Optimal Distance: 33061.63
+Best Distance: 58420.96
+Relative Error: 76.70%
+
+Solving TSP : pr76
+Optimal Distance: 106228.12
+Best Distance: 111443.87
+Relative Error: 89.22%
+
